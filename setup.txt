@@ -6,3 +6,4 @@ torchvision
 tensorflow
 onnxruntime
 onnx
+standard-imghdr
