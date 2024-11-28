@@ -3,5 +3,6 @@ numpy
 scikit-learn
 torch
 torchvision
+tensorflow
 onnxruntime
 onnx
